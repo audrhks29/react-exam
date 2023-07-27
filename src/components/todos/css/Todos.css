@@ -1,0 +1,12 @@
+.Todos {
+    width: 550px;
+    margin: 30px auto;
+}
+
+.Todos h1 {
+    text-align: center;
+    padding: 20px 0;
+    background: #6CABDD;
+    font-size: 40px;
+    font-weight: 600;
+}
